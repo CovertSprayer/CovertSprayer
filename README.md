@@ -1,10 +1,10 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Shreyance Bodh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-- 🔭 I’m currently working on [Full-Stack-Social-App](https://github.com/CovertSprayer/full-stack-project)
+<!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **shreyancebodh@gmail.com**
 
