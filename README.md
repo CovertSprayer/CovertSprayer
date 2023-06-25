@@ -1,10 +1,10 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Shreyance Bodh</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer and Instructor at Coding Blocks Pvt Ltd.</h3>
 
 <!-- - 🔭 I’m currently working on  -->
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 Currently learning **AI/ML**
 
 - 📫 How to reach me **shreyancebodh@gmail.com**
 
